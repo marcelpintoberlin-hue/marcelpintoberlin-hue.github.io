@@ -551,3 +551,6 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
+# Equativ (Smart AdServer), Google Open Bidding for WonderDoku, lines from help.equativ.com/set-up-google-open-bidding-connection, 25/11/2026
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
